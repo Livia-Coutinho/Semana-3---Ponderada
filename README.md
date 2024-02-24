@@ -1,3 +1,31 @@
+# Atividade - Teste de Unidade - Visual Studio
+## Semana 3 - Módulo 9 - Programação
+### Livia Coutinho - Turma 3 - Engenharia de Software
+
+## Introdução 
+
+Relatório para registro dos conceitos e práticas aprendidos durante a atividade de teste de unidade no Visual Studio. O objetivo foi compreender a importância e aplicação dos testes de unidade na verificação da funcionalidade de um software.
+
+## Tecnologia e ferramentas utilizadas
+A tecnologia central utilizada foi o Visual Studio, uma IDE amplamente utilizada no desenvolvimento de software, em que usamos a linguagem de programação C# (CSharp) para a atividade. Além disso, foram empregadas as estruturas de teste de unidade da Microsoft, como o MSTest, para criar e executar os testes.
+
+## Principais conceitos aprendidos
+1. Testes de unidade: compreensão de que os testes de unidade são uma prática de programação onde partes individuais de um programa são testadas para determinar se estão funcionando corretamente de forma isolada.
+2. Estrutura de teste de unidade da Microsoft (MSTest): explorar como usar o MSTest, uma estrutura de teste integrada ao Visual Studio, para escrever e executar testes de unidade em código gerenciado.
+3. Arranjo, ação e assert: aprendizado sobre a estrutura básica de um teste de unidade, que consiste em três etapas: arranjar (preparar o ambiente de teste), agir (invocar o método a ser testado) e afirmar (verificar se o resultado é o esperado).
+4. Criação e execução de testes: o tutorial guiou na criação de projetos de teste, classes de teste e métodos de teste, além de aprender como executar os testes dentro do ambiente do Visual Studio.
+5. Refatoração de testes: entendimento da importância da refatoração dos testes para torná-los mais robustos e informativos, garantindo que eles capturem adequadamente os cenários de teste desejados.
+
+## Experiência prática
+Durante a atividade, foi sugerido pela instrução na Adalove que fosse seguido um tutorial passo a passo para criar e executar testes de unidade para uma classe de exemplo chamada BankAccount. Através dessa prática, foi possível entender na prática como escrever testes para verificar o comportamento de métodos específicos dessa classe, como Debit e Credit.
+
+## Conclusão
+O teste de unidade é uma prática essencial no desenvolvimento de software, pois ajuda a garantir a qualidade e a robustez do código. Através desta atividade, pudemos adquirir habilidades fundamentais na criação e execução de testes de unidade no Visual Studio, o que certamente contribuirá para o desenvolvimento de software de alta qualidade no futuro.
+
+# Imagens:
+
+
+
 ![Imagem do WhatsApp de 2024-02-23 à(s) 20 09 01_6ad27762](https://github.com/Livia-Coutinho/Semana-3---Ponderada/assets/99189965/c28fc777-636c-44cc-bb4f-6b12c6681010)
 
 
